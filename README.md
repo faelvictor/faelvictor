@@ -1,6 +1,3 @@
 ### Hi 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React
-- 👯 I’m looking to collaborate on Node and React projects
-- 📫 How to reach me: rafael00victor@gmail.com
-
+🔍 Analista de BI que traduz dados em histórias e métricas em movimento. Porque cada número tem algo a dizer, basta saber ouvir.
